@@ -2,3 +2,12 @@ body{
   background-repeat: no-repeat;
   background-size: cover; 
 }
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<div>
+  <img src="playgame (1).svg">
+</div>
